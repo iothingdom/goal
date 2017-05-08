@@ -20,4 +20,13 @@
 
 
 
+.wrapper,
+//.wrapper:before, 
+//.wrapper:after
+{
+	background-color: #5bc0de;	
+}
+
+
+
 

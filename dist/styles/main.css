@@ -1,62 +1,11 @@
-// use this to center element vertically
-.vertical-center
-{
-    display: inline-block;
-    vertical-align: middle;
-    float: none;
-}
-
-
-.logo-container
+.logo > img
 {
 	display: inline-block;
-	margin-top: 2em;
-	width: 120px;
-	height: 120px;
-	border: solid 1px #b7bcc0;
-	border-radius: 100%;
-	vertical-align: middle;
+	margin-left: auto;
+	margin-right: auto;
+    height: 13em;
+	width: auto;
 }
-
-.logo
-{
-	display: inline-block;
-	margin-top: 1.5em;
-	width: 54px;
-	height: 29px;
-	font-family: Helvetica;
-	font-size: 24px;
-	color: #7a787b;
-	vertical-align: middle;
-}
-
-.header-text-container
-{
-	padding-top: 2.1em;
-}
-
-
-.header-text
-{
-	font-family: AvenirNext;
-	font-size: 36px;
-	font-weight: bold;
-	color: #4a4a4a;
-}
-
-
-
-
-
-
-
-
-.advert-container 
-{
-	padding-top: 2em;
-}
-
-
 
 
 

@@ -1,10 +1,21 @@
-.logo > img
+.logo-container
 {
 	display: inline-block;
+	margin-bottom: 1em;
+	width: 100%;
+}
+
+.logo-image
+{
+	display: block;
 	margin-left: auto;
-	margin-right: auto;
-    height: 13em;
+    height: 18em;
 	width: auto;
+}
+
+.tagline
+{
+	text-align: right;
 }
 
 

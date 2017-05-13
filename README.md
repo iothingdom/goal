@@ -1,9 +1,8 @@
 ![mobble](http://cloud.scott.ee/images/mobble.png)
 
-# Development
+# Goal Landing Page
 
-* Contributors: [@randychampagne](http://twitter.com/randychampagne)
-* Description: This repo holds the development environment for my portfolio site
+* Description: coming soon
 * Author: [Randy Champagne](http://www.randychampagne.com)
 * Author URI: [http://www.randychampagne.com](http://www.randychampagne.com)
 * License: GNU General Public License v3.0
@@ -12,11 +11,23 @@
 
 
 
-## About Me
+## About
 
-**[Randy Champagne Web Development](http://www.randychampagne.com)**
+**[Goal](http://www.mygoal.tech/)**
 
-I am a highly creative full stack developer who creates elegant user-centered experiences for web and mobile. I develop mobile-first responsive web sites and applications for startups, small businesses, and independent professionals.
+* description coming soon
+
+
+
+
+
+
+## Contributors: 
+
+* [Randy Champagne](https://github.com/champagne-randy) 
+* [Michaela Santiago](https://github.com/meshelluh) 
+* [Kit Krash](https://github.com/kitkrash)
+
 
 
 
@@ -41,9 +52,9 @@ This project uses *node v0.10.35* and *npm v2.14.13* in order to be compatible w
 ## Installation
 
 * clone this repository <br>
-```git clone "https://github.com/rc-webdevelopment/development.git" randychampagne.com```
+```git clone "https://github.com/iothingdom/goal-landing-page.git" goal-landing-page```
 * change to project dir <br>
-```cd randychampagne.com```
+```cd goal-landing-page```
 * install dependencies <br>
 ```npm install```
 

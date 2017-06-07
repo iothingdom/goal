@@ -9,9 +9,9 @@ This project uses *node v0.10.35* and *npm v2.14.13* in order to be compatible w
 ## Installation
 
 * clone this repository <br>
-```git clone "https://github.com/rc-webdevelopment/development.git" randychampagne.com```
+```git clone "https://github.com/iothingdom/goal-landing-page.git" goal-landing-page```
 * change to project dir <br>
-```cd randychampagne.com```
+```cd goal-landing-page```
 * install dependencies <br>
 ```npm install```
 
